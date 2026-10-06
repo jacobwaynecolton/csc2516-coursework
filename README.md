@@ -6,5 +6,4 @@ My solutions to homework assignments from CSC413/2516 at the University of Toron
 |------|-------|
 | `hw1_regression.py` | Linear regression and multinomial logistic regression from scratch: losses, analytic gradients, gradient descent and decision-boundary plots |
 | `hw2_mlp.py` | Multilayer perceptrons from scratch: forward pass, manual backpropagation, nonlinearities (ReLU, ELU and others) and training on a 2D flower dataset |
-
-Both assignments were submitted and past their due dates before being posted here.
+| `hw3_autodiff.py` | Reverse-mode automatic differentiation from scratch: operation nodes with forward and backward passes, topological-sort computation graphs, softmax cross-entropy loss and training an MLP built on the autodiff engine |
